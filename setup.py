@@ -17,7 +17,7 @@ def get_requirements()->List[str]:
 
 setup(
     name = "Network-Analysis",
-    version = "0.0.1",
+    version = "1.0.0",
     author = "Yash Agarwal",
     author_email = "y2907ash@gmail.com",
     packages=find_packages(),
