@@ -1,4 +1,4 @@
-from pymongo.mongo_client import MongoClient
+from pymongo import MongoClient
 
 uri = "mongodb+srv://yash:<@password>@cluster0.tyxpj92.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
